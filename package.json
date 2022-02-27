@@ -1,0 +1,21 @@
+{
+    "name": "green-2",
+    "displayName": "green 2",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "green 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/green 2-color-theme.json"
+            }
+        ]
+    }
+}
